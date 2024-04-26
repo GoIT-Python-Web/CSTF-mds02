@@ -1,0 +1,1 @@
+[Presentation SOLID](https://docs.google.com/presentation/d/1EgJzCunKuUIpicfY82lrJP46FsuY9Dd0VBj_DS79L40/edit?usp=sharing)
